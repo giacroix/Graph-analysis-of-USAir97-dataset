@@ -1,11 +1,11 @@
 # Graph-analysis-of-USAir97-dataset
 
-Motivation  
+Motivation
 Are there nodes with a particularly high centrality with respect to the others? If yes, what do they represent in reality?
 Do closeness centrality and betweenness centrality lead to similar nodes’ scores? Why?
 Is the clustering coefficient a significant value for this network and what does it represent?
 
-Method  
+Method
 Our idea is to apply some of the algorithms that we are studying in the course to the selected dataset, in order to have a clearer idea about them and be able to see what the results mean in practice.
 We want to use snap.py or networkx as main tool for the analyses, but trying also to implement some algorithms from scratch, taking inspiration from the pseudocode explained during the lectures.
 The algorithms that we want to deal with are:
